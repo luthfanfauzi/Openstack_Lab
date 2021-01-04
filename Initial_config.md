@@ -53,7 +53,7 @@ $ sudo packstack --gen-answer-file=packstack-answer.txt
 ```
 
 Edit packstack-answer file:
-[packstack-answer]()
+[packstack-answer](https://github.com/luthfanfauzi/Openstack_Lab/blob/main/packstack-answer.txt)
 
 Install Openstack with Packstack:
 ```bash
