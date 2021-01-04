@@ -57,5 +57,5 @@ Edit packstack-answer file:
 
 Install Openstack with Packstack:
 ```bash
-$ sudo packstack --answer-file=answers.txt | tee packstack.log
+$ sudo packstack --answer-file=packstack-answer.txt | tee packstack.log
 ```
